@@ -8,7 +8,7 @@
 ### ButtonExample
 
 * Code: https://github.com/musabnova/Advanced-Java-Assignment/blob/main/Lab4/ButtonExample.java
-* Output: https://github.com/musabnova/Advanced-Java-Assignment/blob/main/Lab4/2.png
+* Output: https://github.com/musabnova/Advanced-Java-Assignment/blob/main/Lab4/2a%20(2).png
 
 ### ImageButtonExample
 
